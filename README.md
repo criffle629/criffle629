@@ -1,4 +1,4 @@
-### Hi there, I am a Unity developer creating mobile apps for iOS and Android. 👋
+### Hi there, I am a full stack developer who also creates mobile apps and games for iOS and Android. 👋
 
 https://user-images.githubusercontent.com/66517782/212436495-0c24e010-493e-4151-9f79-5a2224011808.mp4
 
